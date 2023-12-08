@@ -65,6 +65,10 @@ section{
     background:var(--yellow);
 }
 
+#pres{
+    line-height: 32px;
+}
+
 .heading{
     text-align: center;
     margin:0 6rem;
